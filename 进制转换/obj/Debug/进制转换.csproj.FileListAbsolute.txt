@@ -1,0 +1,15 @@
+D:\VS2017Workplace\进制转换\进制转换\bin\Debug\进制转换.exe.config
+D:\VS2017Workplace\进制转换\进制转换\bin\Debug\进制转换.exe
+D:\VS2017Workplace\进制转换\进制转换\bin\Debug\进制转换.pdb
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.csprojAssemblyReference.cache
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\MainWindow.g.cs
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\App.g.cs
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换_MarkupCompile.cache
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换_MarkupCompile.lref
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\MainWindow.baml
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.g.resources
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.Properties.Resources.resources
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.csproj.GenerateResource.cache
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.csproj.CoreCompileInputs.cache
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.exe
+D:\VS2017Workplace\进制转换\进制转换\obj\Debug\进制转换.pdb
